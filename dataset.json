@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Portland, Oregon, US",
+  "export_job_id": "6b1f2430-b560-45e1-a6e6-3722d70727f7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 345983,
+  "location_name": "Portland",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-portland-oregon-us-sample-345983",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/345983/beamstation_345983_restaurants-us-or_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 80,
+  "sample_sha256": "3d661b496145fbdb76157f6cab7f171627839a39e3b020794c2357d0dc027da5",
+  "sample_size_bytes": 332862,
+  "total_records": 802,
+  "updated_at": "2026-04-07T23:03:00.390651+00:00"
+}
