@@ -1,12 +1,12 @@
 {
-  "export_job_id": "04621b3f-f9f7-467e-ae68-b27f22773f5c",
+  "export_job_id": "d81ccab5-a920-46bf-a3b0-5ac4fc8e91cb",
   "id_short": 345983,
-  "published_at": "2026-04-18T07:55:13Z",
+  "published_at": "2026-04-22T19:35:43Z",
   "repo_name": "restaurant-verified-email-access-in-portland-oregon-us-sample-345983",
   "sample_asset_name": "beamstation_345983_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/345983/beamstation_345983_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 54,
-  "sample_sha256": "63d76a05f7b0aa6bd52c07f65313617c1da6bae30582412d0f47a23e2be00967",
-  "sample_size_bytes": 229819,
-  "total_records": 540
+  "sample_records": 61,
+  "sample_sha256": "f95ea7a0989362178008b7e7f8490c5a69601916b226ed5bb1ae43ff3d2c44b7",
+  "sample_size_bytes": 255389,
+  "total_records": 615
 }
