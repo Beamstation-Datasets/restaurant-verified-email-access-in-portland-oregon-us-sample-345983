@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Portland, Oregon, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 88 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `345983` |
 | Location | Portland |
 | Category | Restaurants |
-| Full dataset size | 615 records |
-| Free sample size | 61 records (9.92%) |
-| Last export | 2026-04-22T10:20:42.003242+00:00 |
+| Full dataset size | 882 records |
+| Free sample size | 88 records (9.98%) |
+| Last export | 2026-04-29T11:43:44.959679+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-portland-oregon-us-sample-345983/releases/download/sample-latest/beamstation_345983_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
